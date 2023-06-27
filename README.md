@@ -27,4 +27,7 @@ bigdata java 파이썬 학습
 ## 8일차
 - 파이썬 데이터분석
     - selenium
-    -beautifulSoup
+    - beautifulSoup
+    - 예제
+        - 회사 웹사이트 이미지 다운로드
+        - 멜론차트 랭킹 csv저장 
