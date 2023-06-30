@@ -56,12 +56,28 @@
         - 회사 웹사이트 이미지 다운로드
         - 멜론 차트 노래순의 csv 저장
         - 벅스 인기차트 상위곡 100 csv 저장
-    - 코로나 중국 관광객 
+    - 코로나 중국 관광객(Chapter 04)
+
+<img src="https://raw.githubusercontent.com/hugoMGSung/bigdata-python-2023/main/images/crawling01.png" width="700" alt="크롬버전">
+
+
+<img src="https://raw.githubusercontent.com/hugoMGSung/bigdata-python-2023/main/images/crawling02.png" width="700" alt="크롬드라이버 최신판">
 
 ## 9일차
-- 파잇너 데이터분석
-    - 코로나 중국 관광객
+- 파이썬 데이터분석 실습
+    - 코로나 중국 관광객 
 
 ## 10일차
 - 파이썬 데이터분석 실습
-    - 제주도 핫플레이스(인스타그램)
+    - 제주도 핫플레이스 인스타그램 크롤링
+
+<img src="https://raw.githubusercontent.com/hugoMGSung/bigdata-python-2023/main/images/crawling03.gif" width="700" alt="셀레니움 크롤링">
+
+<img src="https://raw.githubusercontent.com/hugoMGSung/bigdata-python-2023/main/images/crawling04.png" width="700" alt="크롤링 결과">
+
+## 11일차
+- 파이썬 데이터분석 실습
+    - 제주도 핫플레이스 시각화
+    - 워드클라우드
+
+<img src="https://raw.githubusercontent.com/hugoMGSung/bigdata-python-2023/main/images/crawling05.png" width="700" alt="워드클라우드 결과">
